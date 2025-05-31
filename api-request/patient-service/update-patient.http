@@ -1,0 +1,14 @@
+### PUT request to example server
+PUT http://localhost:4000/patients/8b7402ba-8f73-4a19-87a8-a9d4edf61c2f
+Content-Type: application/json
+
+{
+  "name": "Tran Dang Hieu",
+  "email": "proja.hieu@gmail.com",
+  "address": "543/40/27 Ton Duc Thang, Da Nang",
+  "dateOfBirth": "2002-03-24",
+  "registeredDate": "2025-04-20"
+}
+
+
+###
